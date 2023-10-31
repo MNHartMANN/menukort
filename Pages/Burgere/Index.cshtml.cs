@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using System.Reflection;
 
 namespace menukort.Pages.Burgere
-{
+{ 
     public class IndexModel : PageModel
     {
 
